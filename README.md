@@ -1,27 +1,176 @@
-# 💫 About Me:
-## 👋 Hi, I'm Ishaan Singh<br><br>🚀 B.Tech student | Self-Taught Game Developer | Automotive Enthusiast  <br><br>I'm passionate about building interactive experiences with Unity and exploring the intersection of automotive technology, AI, and software development. I enjoy turning original ideas into working products — from games to engineering models.<br><br>### 🧠 What I Do<br>- 🎮 Unity Game Development (2D & 3D)<br>- 💻 C# Programming<br>- 🤖 AI Prompt Engineering<br>- 🌐 Learning Full-Stack Web Development<br>- 🚗 Automotive Technology Research<br><br>### 🛠️ Tech & Tools<br>- **Languages:** C, C#, English, Hindi  <br>- **Game Dev:** Unity  <br>- **Development:** VS Code, GitHub  <br>- **Design & Engineering:** Blender, SolidWorks, AutoCAD  <br><br>### 📌 Featured Work<br>- 🌐 Personal Portfolio Website  <br>- 🎮 2D & 3D Games built in Unity  <br>- 🧩 Multiple 3D Models designed in SolidWorks  <br>- 🏥 Hospital Record System in C  <br>- 🎯 Concept development for new automotive technology  <br><br>### 🎯 Current Focus<br>- Full-Stack Web Development  <br>- Advanced Game Development  <br>- Hybrid Electric Vehicle Technology  <br>- AutoCAD & Mechanical Design  <br><br>### 🌟 Career Goals<br>- Indie Game Developer  <br>- Automotive Engineer / Enthusiast  <br>- AI Engineer  <br>- Future Tech Entrepreneur  <br><br>### ⚡ What Makes Me Different<br>- Strong independent builder mindset  <br>- Generate and execute original project ideas  <br>- Fast, focused learner  <br>- Deep curiosity about cars and automotive systems  <br>- Skilled car driver 🚗  <br><br>---<br><br>⭐ *Always building, always learning.*
+<div align="center">
 
+<!-- Pixel/Retro Typing Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=HEY+THERE!+I'M+ISHAAN+%F0%9F%91%BE;GAME+DEV+%7C+ENGINEER+%7C+DREAMER;ALWAYS+BUILDING%2C+ALWAYS+LEARNING...;INSERT+COIN+TO+CONTINUE+%F0%9F%8E%AE" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9ksTwR46) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cursed_kushaq_0987) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cursed_kushaq_0987) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishaan Singh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ishaan Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ikp144@gmail.com) 
+```
+ ██╗███████╗██╗  ██╗ █████╗  █████╗ ███╗   ██╗
+ ██║██╔════╝██║  ██║██╔══██╗██╔══██╗████╗  ██║
+ ██║███████╗███████║███████║███████║██╔██╗ ██║
+ ██║╚════██║██╔══██║██╔══██║██╔══██║██║╚██╗██║
+ ██║███████║██║  ██║██║  ██║██║  ██║██║ ╚████║
+ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat-square&logo=openstack&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat-square&logo=Itch.io&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat-square&logo=Ubisoft&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishaansingh-ai&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ishaansingh-ai&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaansingh-ai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ishaansingh-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ishaansingh-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=B.Tech+Student+%F0%9F%8E%93+%7C+Unity+Dev+%F0%9F%8E%AE+%7C+Car+Nerd+%F0%9F%9A%97" alt="Subtitle" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishaansingh-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Social Badges -->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aajXYSEv)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cursed_kushaq_0987/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-singh-0a11113a5/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaan_singh@srma.edu.in)
+
+</div>
+
+---
+
+## 👾 PLAYER ONE HAS ENTERED THE GAME
+
+```yaml
+Name     : Ishaan Singh
+Class    : B.Tech Student
+Role     : Game Developer | Automotive Enthusiast | AI Tinkerer
+XP       : Gaining daily 📈
+Status   : Currently grinding Full-Stack + HEV Tech 🔋🚗
+Weakness : Cars. Show me a car and I'm distracted forever 🏎️
+```
+
+> *"Every great game started as an idea in someone's head. I'm still in early access."*
+
+---
+
+## 🧠 SKILL TREE
+
+```
+🎮 GAME DEVELOPMENT          ████████████░░  85%
+💻 C# / C / C++              ███████████░░░  80%
+🤖 AI Prompt Engineering     █████████░░░░░  70%
+🌐 Full-Stack Web Dev         ██████░░░░░░░░  45%  ← LEVELING UP
+🚗 Automotive Research        ████████████░░  85%
+🏗️ SolidWorks / AutoCAD       ████████░░░░░░  60%
+```
+
+---
+
+## 🛠️ TECH ARSENAL
+
+**Languages**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+**Game Dev**
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
+
+**Dev Tools & Cloud**
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+
+**Design & Engineering**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+
+**Gaming Platforms**
+
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat-square&logo=Itch.io&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white)
+
+---
+
+## 📌 FEATURED QUESTS (Projects)
+
+| 🏆 Project | 🔧 Stack | 📖 Description |
+|---|---|---|
+| 🌐 Portfolio Website | HTML/CSS/JS | Personal dev portfolio showcasing everything I build |
+| 🎮 Unity 2D/3D Games | Unity, C# | Original game ideas brought to life |
+| 🧩 3D CAD Models | SolidWorks | Engineering-grade 3D models and mechanical designs |
+| 🏥 Hospital Record System | C | CLI-based hospital record management system |
+| 🚗 Automotive Tech Concepts | Research | Concepts & research on hybrid/electric vehicle technology |
+
+---
+
+## 🎯 CURRENT SIDE QUESTS
+
+- [ ] 🌐 Full-Stack Web Development — *In Progress*
+- [ ] 🎮 Advanced Game Dev with Unity — *In Progress*
+- [ ] 🔋 Hybrid Electric Vehicle Technology — *Researching*
+- [ ] 📐 AutoCAD & Mechanical Design — *Leveling Up*
+
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=ishaansingh-ai&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=ishaansingh-ai&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaansingh-ai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=ishaansingh-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## ✍️ LOADING WISDOM...
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🔝 TOP CONTRIBUTED REPOS
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=ishaansingh-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=ishaansingh-ai&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING+%F0%9F%91%BE;GAME+OVER...+OR+IS+IT%3F+%F0%9F%8E%AE;⭐+STAR+A+REPO+IF+YOU+LIKE+MY+WORK!" alt="Footer" />
+
+</div>
