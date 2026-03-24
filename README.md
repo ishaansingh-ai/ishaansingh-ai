@@ -3,14 +3,7 @@
 <!-- Pixel/Retro Typing Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=HEY+THERE!+I'M+ISHAAN+%F0%9F%91%BE;GAME+DEV+%7C+ENGINEER+%7C+DREAMER;ALWAYS+BUILDING%2C+ALWAYS+LEARNING...;INSERT+COIN+TO+CONTINUE+%F0%9F%8E%AE" alt="Typing SVG" />
 
-```
- ██╗███████╗██╗  ██╗ █████╗  █████╗ ███╗   ██╗
- ██║██╔════╝██║  ██║██╔══██╗██╔══██╗████╗  ██║
- ██║███████╗███████║███████║███████║██╔██╗ ██║
- ██║╚════██║██╔══██║██╔══██║██╔══██║██║╚██╗██║
- ██║███████║██║  ██║██║  ██║██║  ██║██║ ╚████║
- ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=80&lines=ISHAAN+SINGH" alt="ISHAAN SINGH" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=B.Tech+Student+%F0%9F%8E%93+%7C+Unity+Dev+%F0%9F%8E%AE+%7C+Car+Nerd+%F0%9F%9A%97" alt="Subtitle" />
 
@@ -44,12 +37,29 @@ Weakness : Cars. Show me a car and I'm distracted forever 🏎️
 ## 🧠 SKILL TREE
 
 ```
-🎮 GAME DEVELOPMENT          ████████████░░  85%
-💻 C# / C / C++              ███████████░░░  80%
-🤖 AI Prompt Engineering     █████████░░░░░  70%
-🌐 Full-Stack Web Dev         ██████░░░░░░░░  45%  ← LEVELING UP
-🚗 Automotive Research        ████████████░░  85%
-🏗️ SolidWorks / AutoCAD       ████████░░░░░░  60%
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ⚔️   C H A R A C T E R   S T A T S   ⚔️                  │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   🎮  GAME DEV        ★ ★ ★ ★ ★    [ MASTER CLASS ]        │
+│   🚗  AUTOMOTIVE      ★ ★ ★ ★ ★    [ PETROLHEAD  ]         │
+│   💻  C / C# / C++   ★ ★ ★ ★ ☆    [ BATTLE-HARDENED ]     │
+│   🤖  AI PROMPTING   ★ ★ ★ ★ ☆    [ WHISPERER   ]         │
+│   🏗️   CAD DESIGN    ★ ★ ★ ☆ ☆    [ APPRENTICE  ]         │
+│   🐍  PYTHON         ★ ★ ★ ☆ ☆    [ SELF-TAUGHT ]         │
+│   🌐  WEB DEV        ★ ★ ☆ ☆ ☆    [ ⚡ GRINDING ]         │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│   🏅  PASSIVE SKILLS  (always active, no cooldown)          │
+│                                                             │
+│      ◈  Original Idea Generator — rare drop ✨             │
+│      ◈  Fast Learner — EXP bonus on every new skill        │
+│      ◈  Independent Builder — solo dungeon cleared          │
+│      ◈  Car Whisperer — hears an engine, loses focus 🏎️    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -132,6 +142,30 @@ Weakness : Cars. Show me a car and I'm distracted forever 🏎️
 ![](https://nirzak-streak-stats.vercel.app/?user=ishaansingh-ai&theme=radical&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaansingh-ai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🕹️ PAC-MAN CHOMPING THROUGH MY CONTRIBUTIONS
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaansingh-ai/ishaansingh-ai/output/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaansingh-ai/ishaansingh-ai/output/pacman.svg" />
+  <img alt="pacman-contributions" src="https://raw.githubusercontent.com/ishaansingh-ai/ishaansingh-ai/output/pacman-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📈 ACTIVITY OVERVIEW
+
+<div align="center">
+
+![Ishaan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishaansingh-ai&theme=react-dark&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=false)
 
 </div>
 
